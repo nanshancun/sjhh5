@@ -1,12 +1,12 @@
-<doctype html>
+<!doctype html>
 
 <html>
 
 <head>
 
-<cherst="utf–8">
+	<mate cherset="UTF–8">
 
-<title></title>
+	<title>网页测试</title>
 
 </head>
 
